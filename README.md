@@ -7,3 +7,8 @@ A new Flutter project.
 cd master_card_app
 flutter packages get
 flutter run
+
+![](projectimages/wallet.png)
+
+
+![](projectimages/wallet.gif)
